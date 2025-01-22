@@ -26,7 +26,7 @@ const HeroSection = () => {
                 1000,
                 "IT Instructor",
                 1000,
-                "Web Developer",
+                "Web Instructor",
                 1000,
                 "Git/Deployment",
                 1000,
